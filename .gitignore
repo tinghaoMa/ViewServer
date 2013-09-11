@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Built application files
 *.apk
 *.ap_
@@ -63,3 +64,16 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+=======
+# Android Studio
+.idea
+*.iml
+
+# Gradle
+.gradle
+build
+local.properties
+
+# OS X
+.DS_Store
+>>>>>>> Convert project structure to Gradle.
